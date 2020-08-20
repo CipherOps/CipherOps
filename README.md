@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Tyler, or as you may know me CipherOps
 
-## - 💬 Ask me about Pi-hole, networking, Linux, or my passion project Linux Café.
+## - 💬 Ask me about Pi-hole, networking, Linux, or my passion project Linux Café. [Linux Café Github](https://github.com/LinuxCafeFederation) [Linux Café Gitlab](https://gitlab.com/linuxcafefederation) [Linux Café Codeberg](https://codeberg.org/LinuxCafeFederation)
 
 ## - 📫 How to reach me: On the various Linux Café Platforms [Discord Community](https://discord.gg/9pfb5ZB) or [Matrix Community](https://matrix.to/#/+linuxcafegroup:linuxcafe.chat) 
 
-## - ⚡ Fun fact: I'm a huge gamer, I love listening to music, mainly Rammstein, and I have a diploma in Web Application Development.
+## - ⚡ Fun fact: I'm a college graduate with a diploma in web development, I love listening to music and playing video games. I've been a Linux user for several years and just want to do what I can to make the world a better place.
