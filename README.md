@@ -6,4 +6,4 @@
 
 ## - 📫 How to reach me: On the various Linux Café Platforms [Discord Community](https://discord.gg/9pfb5ZB) or [Matrix Community](https://matrix.to/#/+linuxcafegroup:linuxcafe.chat) 
 
-## - ⚡ Fun fact: I'm a college graduate with a diploma in web development, and Rammstein is my favourite band. I've been a Linux user for several years and just want to do what I can to make the world a better place.
+## - Buy me a gift from my Amazon Wishlist: https://www.amazon.com/hz/wishlist/ls/1GD5YOV16E0G0
